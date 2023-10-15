@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">primeiroapp</string>
-    //criar desafio
+    <string name="Hello_mateus">Ola Mateus</string>
 </resources>
